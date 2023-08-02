@@ -1,7 +1,7 @@
 # artificial-inteligence
 
-| Tool | Description | Website
-| --- | --- |
+| Tool | Description | Website |
+| --- | --- | --- |
 | ChatGPT	|	Text generation | https://chat.openai.com/ |
 | Notion AI	|	Text generation | https://www.notion.so/ |
 | Bing Chat	|	Web Search | https://Bing.com/chat |
